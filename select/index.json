@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "What if -Japanese ver.-",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-01T06:03:22.743819Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What if -Japanese ver.-",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_What_if_-Japanese_ver.-_NiziU.txt"
+    }
+  ]
+}
